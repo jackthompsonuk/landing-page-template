@@ -1,0 +1,14 @@
+
+$colours: (
+    white:   #ffffff,
+    black:   #5E6061,
+);
+
+$breakpoints: (
+  smallphone: 320px,
+  largephone: 425px,
+  smalltablet: 768px,
+  largetablet: 1024px,
+  smalldesktop: 1440px,
+  largedesktop: 1600px
+) !default;
